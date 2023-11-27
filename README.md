@@ -6,22 +6,22 @@
 3. To monitor each experiment, I used mlflow.
 
 ### Tools & technologies used
-1. Programming language : Python
+## 1. Programming language : Python
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/77eb34b4-d758-4f70-bbf9-4cde54ced129" alt="Alt Text">
 </div>
 
-2. ML libraries : Tensorflow, Keras, Sklearn, pandas
+## 2. ML libraries : Tensorflow, Keras, Sklearn, pandas
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/fae06a0b-7055-4c42-85f0-3a424bad9bef" alt="Alt Text">
 </div>
 
-3. MLflow
+## 3. MLflow
 <div align="center">
-  <img src="" alt="Alt Text">
+  <img src="https://github.com/Ahak99/Bank-Customers-Churn/assets/101395769/123c4899-a6a7-4324-8176-560139b8ff29" alt="Alt Text">
 </div>
 
-4. Github
+## 4. Github
 <div align="center">
   <img src="https://github.com/Ahak99/used-car-price/assets/101395769/308b6f2c-6e69-4c92-b210-9d82b2d257e3" alt="Alt Text">
 </div>
@@ -58,7 +58,7 @@
 	|---- artifacts
 	|---- BEST_MODELS
 	|---- data
-	      |--- Bank Customer Churn Prediction.csv
+	    |--- Bank Customer Churn Prediction.csv
 	|---- logs
 	|---- mlruns
 	|---- Notebook
