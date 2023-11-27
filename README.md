@@ -54,6 +54,38 @@
 
     6. Push the project to GitHub
 
+## Project folder
+	|---- artifacts
+	|---- BEST_MODELS
+  |---- data
+      |--- Bank Customer Churn Prediction.csv
+    |---- logs
+    |---- mlruns
+    |---- Notebook
+  |---- src
+    |--- experiences
+      |--- __init__.py
+      |--- AdaBoostClassifier_experience.py
+      |--- DecisionTree_experience.py
+      |--- KNeighborsClassifier_experience.py
+      |--- RandomForestClassifier_experience.py
+      |--- svc_experience.py
+      |--- XGBClassifier_experience.py
+    |--- pipeline
+      |--- __init__.py
+      |--- data_prep.py
+      |--- model_selector.py
+      |--- Training.py
+    |--- __init__.py
+    |--- exception.py
+    |--- logger.py
+    |--- utils.py
+  |---- venv
+  |---- experiments_infos.csv
+  |---- README.md
+  |---- requirements.txt
+
+
 ## Software and tools requirements
 
     1. Github
