@@ -1,4 +1,4 @@
-# Used Car Price 
+# Bank Customers Churn
 
 ## Objectives
 1. Every bank wants to keep its customers in order to maintain its business, so Multinational Bank ABC decided to work on Multinational Bank ABC's customer data. We are working on Multinational Bank ABC's account holder data and the purpose of this data is to predict the customer Churn.
